@@ -1,6 +1,9 @@
 # Project unipiexUnity
 
-Virtual Reality, final task, 7th semester.
+Virtual Reality
+7th semester, academic year 2022-2023.
+
+
 
 ## Unity Version
 
