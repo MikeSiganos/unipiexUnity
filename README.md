@@ -12,7 +12,7 @@ Unity LTS Release 2021.3.+
 
 ## Installation
 
-Run [unipiExUnity.exe](/Build/V1.0.0/unipiExUnity.exe) to execute this app on any windows device with Windows 10 or later.
+Run [unipiExUnity.exe](/Build/unipiExUnity.exe) to execute this app on any windows device with Windows 10 or later.
 
 ```bash
 
